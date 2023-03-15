@@ -1,0 +1,34 @@
+{
+  "blogs": [
+    {
+      "title": "My first Blog",
+      "body": "why do we use it a long establsihed fghtyij gjsf ghjdniv vfg hjuhgju",
+      "author": "anu",
+      "id": 1
+    },
+    {
+      "title": "opening Party",
+      "body": "why do we use it a long establsihed fghtyij gjsf ghjdniv vfg hjuhgju",
+      "author": "Shashi",
+      "id": 2
+    },
+    {
+      "title": "sffg",
+      "body": "trtt",
+      "author": "weeee",
+      "id": 9
+    },
+    {
+      "title": "dd",
+      "body": "dd",
+      "author": "d",
+      "id": 12
+    },
+    {
+      "title": "dd",
+      "body": "dd",
+      "author": "d",
+      "id": 13
+    }
+  ]
+}
